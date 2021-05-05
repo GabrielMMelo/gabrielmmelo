@@ -31,7 +31,6 @@ I'm a brazilian data enthusiastic and I'm currently working as data scientist at
 - Data Engineering
 - Data wragling
 - Databases
-- ML
 - Python 💜 
 
 

@@ -36,6 +36,3 @@ I'm a brazilian data enthusiastic and I'm currently working as data scientist at
 
 ### GH stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielmmelo&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
----
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting</b> (respecting the social distance 🖖) <b>with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>

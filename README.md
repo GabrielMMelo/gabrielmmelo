@@ -25,7 +25,7 @@
 <br>
 
 ### About me
-I'm a brazilian data enthusiastic and I'm currently working as data scientist at [Accenture](https://www.accenture.com/br-pt).
+I'm a brazilian data enthusiastic and I'm currently working as data scientist at [DTI Digital](https://github.com/dtidigitalcrafters).
 
 ### Ask me about
 - Data Engineering

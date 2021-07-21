@@ -25,14 +25,15 @@
 <br>
 
 ### About me
-I'm a brazilian data enthusiastic and I'm currently working as data scientist at [dti digital](https://github.com/dtidigitalcrafters).
+I'm a brazilian data enthusiastic and I'm currently working as data engineer at [GAVB Consulting](https://www.gavb.com.br/).
 
 ### Ask me about
 - Data Engineering
 - Data wragling
 - Databases
-- Python 💜 
+- Python
 
-
+<!--
 ### GH stats
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gabrielmmelo&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+-->

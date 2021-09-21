@@ -25,13 +25,14 @@
 <br>
 
 ### About me
-I'm a brazilian data enthusiastic and I'm currently working as data engineer at [GAVB Consulting](https://www.gavb.com.br/).
+I'm a brazilian data enthusiastic and I'm currently working as data engineer at [Blueshift Brasil](https://blueshift.com.br/).
 
 ### Ask me about
 - Data Engineering
-- Data wragling
 - Databases
 - Python
+- Productivity Tools
+- Personal Knowledge Management
 
 <!--
 ### GH stats

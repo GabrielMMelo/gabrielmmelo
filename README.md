@@ -25,7 +25,7 @@
 <br>
 
 ### About me
-I'm a brazilian data enthusiastic currently working as Senior Data Engineer at [Blueshift Brasil](https://blueshift.com.br/).
+I'm a brazilian data enthusiastic currently working as Software/Data Engineer at [BFA Industries](https://www.bfaindustries.com/).
 
 ### Ask me about
 - Data Engineering
